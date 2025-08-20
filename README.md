@@ -1,13 +1,11 @@
-- 👋 Hi, I’m @sakshambhardwaj216
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- Tech stack
-Python C C++ JavaScript HTML5 CSS3  OpenCV MySQL Adobe  Canva Adobe  Matplotlib NumPy Pandas Plotly  GitHub Git
-<!---
-sakshambhardwaj216/sakshambhardwaj216 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Saksham Bhardwaj  
+🚀 Aspiring AI/ML Engineer | Computer Science Undergrad @ Chandigarh University  
+
+💻 Skilled in Python, C/C++, Java, SQL  
+🧠 Passionate about Machine Learning, Deep Learning & Computer Vision  
+📊 Strong foundation in Databases and Core CS Fundamentals (DSA, OS, CN, DBMS)  
+🏆 Hackathon & Coding Competition Finalist (TCS CodeVita, Code Wars, Codefest)  
+
+🔍 Always exploring real-world applications of AI/ML  
+🌱 Currently working on projects in Flask, SQL, and Deep Learning  
+📫 Reach me at: [sakshambhardwaj216@gmail.com](mailto:sakshambhardwaj216@gmail.com)  
